@@ -11,7 +11,7 @@ You are free to setup the project in any way you see fit but the requirements ar
 Put the code in a git repo and send us a mail with a link to the repo or the repo tar ball when you're done, there is no deadline but the sooner the better.
 You are allowed to make assumptions whenever there's something unclear - how you deal with those are also part of this challenge. ;)  
 
-### Base url *http://case.karma.life/viewer*
+### Base url [*http://case.karma.life/viewer*](http://case.karma.life/viewer)
 
 ## GET /items
 returns all items
