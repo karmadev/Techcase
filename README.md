@@ -1,5 +1,5 @@
 # The case
-Your assignment is to create a simple web application that lists the items available.
+Your assignment is to create a simple web application that lists the items (and locations if you are ambitious) available.
 * It should be clear which items belong to which location and how much they cost (prices are in Swedish öre).
 * Present the items in a way that you believe makes the most sense for a user looking for something to purchase.
 * It should be possible to filter on locations and ingredients by text search.
