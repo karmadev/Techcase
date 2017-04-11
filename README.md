@@ -1,5 +1,5 @@
 # The case
-Your assignment is to create a simple web application that lists the items (and locations if you are ambitious) available.
+Your assignment is to create a simple web application that lists the items (and locations if you are ambitious) available in the API described below.
 * It should be clear which items belong to which location and how much they cost (prices are in Swedish öre).
 * Present the items in a way that you believe makes the most sense for a user looking for something to purchase.
 * It should be possible to filter on locations and ingredients by text search.
@@ -17,6 +17,8 @@ Whenever something is unclear, make assumptions. How you deal with those are als
 # Delivery
 
 There is no deadline but the sooner the better. Once you are done, put the code in a git repo and send a mail to *mattis@karma.life* with a link to the repo or the repo tar ball.
+
+# The API
 
 ### Base url [*http://case.karma.life/viewer*](http://case.karma.life/viewer)
 
