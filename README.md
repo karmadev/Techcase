@@ -1,32 +1,36 @@
-# The CASE
-Your assignment is to create a web application that displays all items and all locations. It's should be easy and clear to see which items belong to which location. It should be possible to filter on locations and ingredients. It should also be possible to sort by name, price and location. 
+# The case
+Your assignment is to create a simple web application that lists the items available.
+* It should be clear which items belong to which location and how much they cost (prices are in Swedish öre).
+* Present the items in a way that you believe makes the most sense for a user looking for something to purchase.
+* It should be possible to filter on locations and ingredients by text search.
+* It should be possible to sort items by name, price and location.
 
 You are free to setup the project in any way you see fit but the requirements are as follows:
 
-* Use React and Redux
-* Use a modern version of JavaScript (ECMAScript 6 at least, but later is good too)
+* Use React (and Redux if you want to)
+* Use a modern version of JavaScript (ECMAScript 6 at least)
 * Add docs so we know how to run the example
 * Add comments whenever you're making an assumption 
 
-Put the code in a git repo and send us a mail with a link to the repo or the repo tar ball when you're done, there is no deadline but the sooner the better.
-You are allowed to make assumptions whenever there's something unclear - how you deal with those are also part of this challenge. ;)  
+Whenever something is unclear, make assumptions. How you deal with those are also part of the challenge :).
+
+# Delivery
+
+There is no deadline but the sooner the better. Once you are done, put the code in a git repo and send a mail to *mattis@karma.life* with a link to the repo or the repo tar ball.
 
 ### Base url [*http://case.karma.life/viewer*](http://case.karma.life/viewer)
 
 ## GET /items
-returns all items
+Returns all items
 
-## GET /items/:ID
-returns one item
+## GET /items/:id
+Returns one item
 
 ## GET /locations
-returns all locations
+Returns all locations
 
-## GET /locations/:ID
-returns one location
+## GET /locations/:id
+Returns one location
 
-## GET /locations/:ID/items
-returns all items for one location
-
-
-
+## GET /locations/:id/items
+Returns all items for one location
