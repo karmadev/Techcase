@@ -7,10 +7,10 @@ Your assignment is to create a simple web application that lists the items (and 
 
 You are free to setup the project in any way you see fit but the requirements are as follows:
 
-* Use React (and Redux if you want to)
-* Use a modern version of JavaScript (ECMAScript 6 at least)
-* Add docs so we know how to run the example
-* Add comments whenever you're making an assumption 
+* Use React (and Redux if you want to).
+* Use a modern version of JavaScript (ECMAScript 6 at least).
+* Add docs so we know how to run the example.
+* Add comments whenever you're making an assumption.
 
 Whenever something is unclear, make assumptions. How you deal with those are also part of the challenge :).
 
